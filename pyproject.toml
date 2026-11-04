@@ -80,7 +80,7 @@ cloud-live = ["ai-bom[aws,gcp,azure]"]
 enrich = ["litellm>=1.40.0,<3.0"]
 callable = []  # base callable module — no SDKs required
 callable-openai = ["openai>=1.0.0,<3.0"]
-callable-anthropic = ["anthropic>=0.30.0,<2.0"]
+callable-anthropic = ["anthropic>=0.30.0,<3.0"]
 callable-google = ["google-generativeai>=0.5.0,<2.0"]
 callable-bedrock = ["boto3>=1.26.0,<2.0"]
 callable-ollama = ["ollama>=0.3.0,<2.0"]
