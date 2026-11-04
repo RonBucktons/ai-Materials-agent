@@ -4,7 +4,7 @@
 </a>
   <img src="https://raw.githubusercontent.com/Trusera/ai-bom/main/assets/logo.png" alt="AI-BOM Logo" width="120" />
   <br /><br />
-  <h1>AI-BOM</h1>
+  <h1>ai-Materials-agent</h1>
   <h3>Discover every AI agent, model, and API hiding in your infrastructure</h3>
 
   <a href="https://pypi.org/project/ai-bom/"><img src="https://img.shields.io/pypi/v/ai-bom.svg" alt="PyPI" /></a>&nbsp;
